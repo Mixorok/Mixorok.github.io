@@ -20,7 +20,7 @@ struct Registration: View {
                 .padding()
                 .padding(.bottom, 50)
             VStack{
-                Text("Your name \(user.name)")
+                Text("Your name")
                 TextField("Enter your name... ", text: $user.name)
                     .textFieldStyle(RoundedBorderTextFieldStyle())
             }

@@ -1,0 +1,23 @@
+body {
+  font-family: "Graphik", "Tahoma", sans-serif;
+  font-size: 18px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.start_info {
+  font-size: 0.7em;
+}
+
+h1 {
+  font-size: 2.8em;
+  font-weight: bold;
+}
+
+.desctop {
+  display: none;
+}
